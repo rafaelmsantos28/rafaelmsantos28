@@ -2,7 +2,8 @@
 
 💻 Estudante de Ciência da Computação na UNESP - Rio Claro  
 🚀 Tenho afinidade com **Desenvolvimento de Software & Cybersecurity**  
-🔧 Tecnologias: **Java, C, Javascript, SQL**  
+🔧 Tecnologias: **Java, C, Javascript, SQL** 
+📦 Frameworks: **React.js, Spring Boot, Next.js**
 
 
 📫 **Me encontre aqui:**
